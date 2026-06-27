@@ -6,6 +6,8 @@
 
 *Building intelligent systems through Machine Learning, Deep Learning, NLP and Reinforcement Learning.*
 
+</div>
+
 ---
 
 # 🧠 AI Stack
@@ -18,21 +20,15 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
----
-
 ### 🤖 Machine Learning
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
----
 
 ### 🧠 Deep Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
----
 
 ### 💬 Natural Language Processing
 
@@ -41,14 +37,10 @@
 ![TF-IDF](https://img.shields.io/badge/TF--IDF-4B8BBE?style=for-the-badge)
 ![Text Processing](https://img.shields.io/badge/Text_Processing-5E60CE?style=for-the-badge)
 
----
-
 ### 🎮 Reinforcement Learning
 
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A7?style=for-the-badge)
 ![Q-Learning](https://img.shields.io/badge/Q--Learning-6A1B9A?style=for-the-badge)
-
----
 
 ### 🚀 LLM Applications
 
@@ -89,15 +81,15 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
 <a href="https://www.kaggle.com/mahidodiya">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="40"/>
 </a>
 
 <a href="https://leetcode.com/mahidodiya124/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
 </a>
 
 </p>
@@ -106,5 +98,6 @@
 
 <div align="center">
 
-### *One less confusion than yesterday.*
+**One less confusion than yesterday.**
+
 </div>
