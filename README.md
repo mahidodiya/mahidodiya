@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mahi Dodiya
 
-### Computer Engineering Student • AI & Machine Learning Enthusiast • Kaggle Competitor
+### AI & Machine Learning Enthusiast • Kaggle Competitor • Open Source Learner
 
 *Building intelligent systems through Machine Learning, Deep Learning, NLP and Reinforcement Learning.*
 
@@ -67,14 +67,13 @@
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Core Activities
 
-- 🏆 Kaggle Competitions
-- 🧩 Data Structures & Algorithms
-- 🤖 Building AI Projects
-- 📚 Learning by Building
+- Building AI Projects
+- Kaggle Competitions
+- Data Structures & Algorithms
 
----
+--- 
 
 # 🌐 Connect
 
