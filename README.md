@@ -80,20 +80,29 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
 </a>
 
-<a href="https://www.kaggle.com/mahidodiya">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="40"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.kaggle.com/mahidodiya" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="42"/>
 </a>
 
-<a href="https://leetcode.com/mahidodiya124/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/mahidodiya124/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="42"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.threads.com/@dodiya_mahi124" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" height="42"/>
 </a>
 
 </p>
-
 ---
 
 <div align="center">
