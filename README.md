@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # 👋 Hi, I'm Mahi Dodiya
@@ -116,6 +115,4 @@
 <div align="center">
 
 ### *One less confusion than yesterday.*
-
 </div>
-```
