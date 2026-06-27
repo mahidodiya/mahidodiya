@@ -6,14 +6,6 @@
 
 *Building intelligent systems through Machine Learning, Deep Learning, NLP and Reinforcement Learning.*
 
-<br>
-
-<a href="https://github.com/mahidodiya">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning;Deep+Learning;Natural+Language+Processing;Reinforcement+Learning;Building+AI+Projects;Kaggle+Competitor"/>
-</a>
-
-</div>
-
 ---
 
 # 🧠 AI Stack
